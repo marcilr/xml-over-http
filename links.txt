@@ -11,3 +11,5 @@ Links
 Producing and Consuming XML over HTTP with Rails
 https://pragmaticstudio.com/blog/2005/7/12/producing-and-consuming-xml-over-http-with-rails
 
+Ruby HTTP POST request containing XML content
+https://gist.github.com/mattriley/1679326
