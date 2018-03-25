@@ -1,0 +1,13 @@
+links.txt
+Created Sun Mar 25 14:13:53 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+XML over HTTP related links
+
+
+Links
+=====
+Producing and Consuming XML over HTTP with Rails
+https://pragmaticstudio.com/blog/2005/7/12/producing-and-consuming-xml-over-http-with-rails
+
