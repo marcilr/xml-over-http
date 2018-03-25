@@ -1,0 +1,11 @@
+README
+Created Sun Mar 25 14:35:45 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+post_xml.rb
+  Ruby HTTP POST request containing XML content
+  https://gist.github.com/mattriley/1679326
+
