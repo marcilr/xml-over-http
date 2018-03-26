@@ -8,6 +8,10 @@ XML over HTTP related links
 
 Links
 =====
+B2B (Business-to-Business) Gateway
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/B2B_Gateway
+
 Producing and Consuming XML over HTTP with Rails
 https://pragmaticstudio.com/blog/2005/7/12/producing-and-consuming-xml-over-http-with-rails
 
