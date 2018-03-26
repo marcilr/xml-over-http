@@ -1,0 +1,35 @@
+glossary.txt
+Created Mon Mar 26 08:46:19 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary for xml over http
+
+
+BSB - Business-to-Business (B2B) Gateways integrate data from back-end
+      systems enabling information exchange across trading partners.
+      B2B Gateways also provide a centralized point for transformation
+      of multiple data sources through interoperability standards such
+      as XML (Extensible Markup Language), cXML(Commerce XML) and EDI
+      (Electronic data interchange).  B2B Gateways provide businesses
+      an e-commerce platform for integrating with key suppliers and
+      customers quickly and easily. 
+      --B2B Gateway
+        From Wikipedia, the free encyclopedia
+        https://en.wikipedia.org/wiki/B2B_Gateway
+
+cXML - Commerce XML
+      --B2B Gateway
+        From Wikipedia, the free encyclopedia
+        https://en.wikipedia.org/wiki/B2B_Gateway
+
+EDI - Electronic data interchange
+      --B2B Gateway
+        From Wikipedia, the free encyclopedia
+        https://en.wikipedia.org/wiki/B2B_Gateway
+
+XML - Extensible Markup Language
+      --B2B Gateway
+        From Wikipedia, the free encyclopedia
+        https://en.wikipedia.org/wiki/B2B_Gateway
+
